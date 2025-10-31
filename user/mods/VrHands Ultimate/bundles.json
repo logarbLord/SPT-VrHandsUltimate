@@ -547,6 +547,34 @@
 				"cubemaps",
 				"shaders"
 			]
+        },
+        {
+            "key": "assets/content/hands/wild/wild_body_firsthands.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/hands/wild/wild_body_1_firsthands.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/hands/wild/wild_body_2_firsthands.bundle",
+            "dependencyKeys": [
+              "cubemaps",
+              "shaders"
+            ]
+        },
+        {
+			"key": "assets/content/hands/wild/wild_body_3_firsthands.bundle",
+			"dependencyKeys": [
+              "cubemaps",
+              "shaders"
+            ]
         }
     ]
 }
